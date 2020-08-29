@@ -1,4 +1,4 @@
-9887# birthday_kids = {
+# birthday_kids = {
 #   "Timmy" => 9, 
 #   "Sarah" => 6, 
 #   "Amanda" => 27
